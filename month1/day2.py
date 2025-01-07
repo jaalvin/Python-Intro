@@ -3,8 +3,8 @@
 and calculates the year they were born.'''
 
 #Takes in user's name and age as input
-Name = print("What is your name?")
-Age = print("What is your age?")
+Name = input("What is your name? ")
+Age = int(input("What is your age? "))
 
 #Prints out a greeting with their name
 print("Hello, ", Name)
