@@ -1,6 +1,4 @@
-'''Create a program that takes user input for their name and age, then prints a greeting with their name 
-
-and calculates the year they were born.'''
+'''Create a program that takes user input for their name and age, then prints a greeting with their name and calculates the year they were born.'''
 
 #Takes in user's name and age as input
 Name = input("What is your name? ")
