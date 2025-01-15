@@ -1,4 +1,4 @@
-# A function that takes a number as input and returns the factorial of that number.
+# A function that takes a number as input and returns the factorial of that number. 
 
 #Using while loop 
 def fact(n):
