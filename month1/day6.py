@@ -1,4 +1,4 @@
-#A program that takes a list of numbers and prints the sum and average
+#A program that takes a list of numbers and prints the sum and average 
 
 # Function to calculate sum and average
 def calculate_sum_and_average(numbers):
