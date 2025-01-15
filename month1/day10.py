@@ -3,5 +3,8 @@
 import math
 
 num = float(input("Enter a number to find the square root: "))
-result = math.sqrt(num)
-print(f"The square root is: {result}")
+if num > 0:
+  result = math.sqrt(num)
+  print(f"The square root is: {result}")
+else:
+  print("Number must be a positive integer
