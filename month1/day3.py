@@ -1,7 +1,7 @@
 '''Build a simple age checker: Ask the user for their age and tell them if they are eligible for certain 
 services (e.g., "You are eligible to vote" or "You are too young to vote").'''
 
-#Ask the user for their age
+#Ask the user for their age 
 age = int(input("How old are you? \n"))
 
 #Check if user's age is eligible
