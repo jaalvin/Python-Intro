@@ -1,5 +1,5 @@
 """A program that stores user information (name, age) in a dictionary and allows the user to 
-retrieve it by providing the name"""
+retrieve it by providing the name""" 
 
 name = input("What's your name? ")
 age = int(input("How old are you? "))
