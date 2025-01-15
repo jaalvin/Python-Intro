@@ -1,6 +1,6 @@
 # A function that takes a number as input and returns the factorial of that number. 
 
-#Using while loop 
+#Using while loop
 def fact(n):
     if n < 0:
         return "not defined."
